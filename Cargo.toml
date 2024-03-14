@@ -12,7 +12,7 @@ edition = "2018"
 scoped_threadpool = "0.1.9"
 tabwriter = "1.2.1"
 walkdir = "2.3.1"
-tree_magic_mini = "1.0.0"
+tree_magic_mini = "3.0.0"
 clap = "2.33.1"
 num_cpus = "1.13.0"
 
